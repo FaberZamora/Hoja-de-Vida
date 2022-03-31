@@ -10,3 +10,4 @@
 - [X] debe tener un readme.md explicando la bibliografía y recursos de donde se tomaron snippets o el template o funcionalidades básicas de bootstrap, html, css o git
 - [X] el readme.md debe tener una mínima estructura del lenguaje markdown
 - [X] debe existir una url y una página funcional en githubpages
+*https://faberzamora.github.io/Hoja-de-Vida/
